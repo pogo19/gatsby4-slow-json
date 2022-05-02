@@ -13,6 +13,6 @@ module.exports = {
         path: `${__dirname}/src/json`,
       },
     },
-    `gatsby-transformer-json`
+    `gatsby-transformer-json`,
   ],
 }

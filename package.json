@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby4-slow-json",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Test case for slow JSON transform in Gatsby4",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jan Mynařík <jan.mynarik@gmail.com>",
   "dependencies": {
     "gatsby": "^4",
     "gatsby-source-filesystem": "^4",
@@ -11,7 +11,8 @@
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-infinite-scroll-component": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "^2.6.2"
@@ -31,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/pogo19/gatsby4-slow-json"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/pogo19/gatsby4-slow-json/issues"
   }
 }
